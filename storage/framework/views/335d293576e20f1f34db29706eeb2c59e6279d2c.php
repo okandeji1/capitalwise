@@ -1,0 +1,1 @@
+<?php /**PATH /home/okandeji/Documents/Projects/cap_wise/resources/views/admin/apps/all_reports.blade.php ENDPATH**/ ?>
